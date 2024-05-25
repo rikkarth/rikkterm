@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "jquery": "^3.7.1",
+    "jquery.terminal": "^2.41.2"
+  },
+  "name": "rikkterm",
+  "version": "0.0.1",
+  "description": "My Terminal Website",
+  "scripts": {
+    "test": ""
+  },
+  "author": "rikkarth",
+  "license": "ISC"
+}

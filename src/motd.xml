@@ -1,0 +1,9 @@
+<?xml-model type="application/xml"?>
+<doc>
+    <darkolivegreen>
+        <glow>${ascii}</glow>
+    </darkolivegreen>
+    <div>
+        \nWelcome to my Terminal Portfolio\n
+    </div>
+</doc>
